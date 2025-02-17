@@ -28,14 +28,6 @@ I'm a passionate software developer with a love for coding and solving complex p
 - **LinkedIn:** [Lucas Reis Diniz](https://www.linkedin.com/in/lucas-reis-diniz-13516421b/)
 - **Twitter:** [@lucasreisdev]([https://x.com/lucasReisDEV])
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding React Hooks](https://dev.to/lucasreisdev/understanding-react-hooks-1a2b)
-- [A Guide to Docker for Beginners](https://dev.to/lucasreisdev/a-guide-to-docker-for-beginners-3c4d)
-- [Building REST APIs with Node.js and Express](https://dev.to/lucasreisdev/building-rest-apis-with-nodejs-and-express-5e6f)
-<!-- BLOG-POST-LIST:END -->
-
 ## ⚡ Fun Facts
 
 - I'm a big fan of chess and enjoy playing it in my free time.
