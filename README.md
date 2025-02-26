@@ -26,7 +26,7 @@ I'm a passionate software developer with a love for coding and solving complex p
 
 - **Email:** lucasreis.dnz@gmail.com
 - **LinkedIn:** [Lucas Reis Diniz](https://www.linkedin.com/in/lucas-reis-diniz-13516421b/)
-- **Twitter:** [@lucasreisdev]([https://x.com/lucasReisDEV])
+- **Twitter:** [Lucas Reis Diniz]([https://x.com/lucketa_dev])
 
 ## ⚡ Fun Facts
 
