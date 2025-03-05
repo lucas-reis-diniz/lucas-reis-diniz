@@ -20,7 +20,7 @@ I'm a passionate software developer with a love for coding and solving complex p
 
 - Advanced Kubernetes
 - Machine Learning with Python
-- Blockchain Development
+- Data Science
 
 ## 📫 How to reach me
 
