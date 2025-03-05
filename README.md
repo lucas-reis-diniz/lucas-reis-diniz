@@ -18,7 +18,7 @@ I'm a passionate software developer with a love for coding and solving complex p
 
 ## 🌱 Currently Learning
 
-- Advanced Kubernetes
+- Advanced Docker
 - Machine Learning with Python
 - Data Science
 
