@@ -1,16 +1,17 @@
 # Hi there, I'm Lucas Reis Diniz 👋
 
-I'm a passionate software developer with a love for coding and solving complex problems. I enjoy working on open-source projects and continuously learning new technologies. 
+I'm a passionate Data Scientist and Data Engineer with a strong foundation in software development. I enjoy solving complex data problems, building data pipelines, and leveraging machine learning techniques to extract meaningful insights. I am committed to continuously improving my skills and exploring new technologies in the world of data.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript, Python, Java, C#
-- **Web Development:** React, Node.js, Express, Django
-- **Mobile Development:** React Native, Flutter
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Languages:** Python, Java, SQL, JavaScript, TypeScript, C#
+- **Data Engineering:** Apache Spark, Apache Kafka, Airflow, ETL Pipelines, Hadoop
+- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Tableau
+- **Databases:** MySQL, PostgreSQL, MongoDB, AWS Redshift
+- **Cloud Providers:** AWS, Azure, Google Cloud
 - **DevOps:** Docker, Kubernetes, Jenkins
 - **Version Control:** Git, GitHub, GitLab
-- **Cloud Providers:** AWS, Azure, Google Cloud
 
 ## 📈 GitHub Stats
 
@@ -18,9 +19,10 @@ I'm a passionate software developer with a love for coding and solving complex p
 
 ## 🌱 Currently Learning
 
-- Advanced Docker
-- Machine Learning with Python
-- Data Science
+- Advanced Data Engineering concepts
+- Deep Learning and AI
+- Real-Time Data Streaming and Processing
+- Big Data Technologies (Hadoop, Spark)
 
 ## 📫 How to reach me
 
@@ -30,11 +32,10 @@ I'm a passionate software developer with a love for coding and solving complex p
 
 ## ⚡ Fun Facts
 
-- I'm a big fan of chess and enjoy playing it in my free time.
-- I love hiking and exploring nature.
-- I'm an avid reader and enjoy reading books on technology and personal development.
+- I'm passionate about solving real-world problems using data.
+- I enjoy reading about the latest advancements in AI, machine learning, and data engineering.
+- I love exploring new data science challenges and experimenting with new algorithms and techniques.
 
-Feel free to reach out to me for any collaboration or just to say hi! 😊
+Feel free to reach out for collaboration or just to talk about the latest trends in data! 😊
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=lucas-reis-diniz.visitor-badge)
-```` ▋
