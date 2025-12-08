@@ -27,7 +27,6 @@ I'm a passionate Data Scientist and Data Engineer with a strong foundation in so
 ## 📫 How to reach me
 
 - **Email:** lucasreis.dnz@gmail.com
-- **LinkedIn:** [Lucas Reis Diniz](https://www.linkedin.com/in/lucas-reis-diniz-13516421b/)
 - **Twitter:** [Lucas Reis Diniz](https://x.com/lucketa_dev)
 
 ## ⚡ Fun Facts
