@@ -1,40 +1,40 @@
-# Hi there, I'm Lucas Reis Diniz 👋
+# Lucas Reis Diniz
 
-I'm a passionate Data Scientist and Data Engineer with a strong foundation in software development. I enjoy solving complex data problems, building data pipelines, and leveraging machine learning techniques to extract meaningful insights. I am committed to continuously improving my skills and exploring new technologies in the world of data.
+Cloud-focused professional working with **Cloud Architecture**, **platform engineering**, and **reliable, secure cloud solutions**.
 
-## 🔧 Technologies & Tools
+## Focus
+- Designing **scalable and resilient architectures**
+- **Cloud modernization** (migration, re-platforming, re-architecting)
+- **Security & governance** (least privilege, networking, compliance-ready setups)
+- **Observability & reliability** (SLIs/SLOs, monitoring, incident-ready systems)
 
-- **Languages:** Python, Java, SQL, JavaScript, TypeScript, C#
-- **Data Engineering:** Apache Spark, Apache Kafka, Airflow, ETL Pipelines, Hadoop
-- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Tableau
-- **Databases:** MySQL, PostgreSQL, MongoDB, AWS Redshift
-- **Cloud Providers:** AWS, Azure, Google Cloud
-- **DevOps:** Docker, Kubernetes, Jenkins
-- **Version Control:** Git, GitHub, GitLab
+## Core Skills
+**Cloud & Architecture**
+- AWS / Azure / GCP
+- Well-Architected principles, cost optimization, high availability, DR
 
-## 📈 GitHub Stats
+**Infrastructure as Code / Automation**
+- Terraform, CloudFormation / Bicep
+- GitHub Actions, CI/CD, release automation
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-reis-diniz&show_icons=true&theme=dracula)
+**Containers & Runtime**
+- Docker, Kubernetes
+- Serverless (AWS Lambda / Azure Functions / Cloud Run)
 
-## 🌱 Currently Learning
+**Ops**
+- Monitoring/logging/tracing (CloudWatch, Prometheus/Grafana, OpenTelemetry, etc.)
+- Networking fundamentals (VPC/VNet, DNS, load balancing)
 
-- Advanced Data Engineering concepts
-- Deep Learning and AI
-- Real-Time Data Streaming and Processing
-- Big Data Technologies (Hadoop, Spark)
+## Certifications
+- AZ-900
+- SC-900
+- Google Data Engineer
 
-## 📫 How to reach me
+## Featured Work
+- **Project / Case Study 1** — what you built + impact (latency, cost, uptime)
+- **Project / Case Study 2** — architecture pattern + tools used
 
-- **Email:** lucasreis.dnz@gmail.com
-- **Twitter:** [Lucas Reis Diniz](https://x.com/lucketa_dev)
-
-## ⚡ Fun Facts
-
-- I'm passionate about solving real-world problems using data.
-- I enjoy reading about the latest advancements in AI, machine learning, and data engineering.
-- I love exploring new data science challenges and experimenting with new algorithms and techniques.
-
-Feel free to reach out for collaboration or just to talk about the latest trends in data! 😊
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=lucas-reis-diniz.visitor-badge)
+## Connect
+- LinkedIn: <your-link>
+- Email: <lucasreis.dnz@gmail.com>
+- Portfolio / Blog: <your-link>
