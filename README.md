@@ -65,24 +65,6 @@ Power BI otimizado com Tabular Editor + limpeza de grandes volumes de dados.
 
 ---
 
-### 💼 Experiência Profissional
-
-**Teltec Data** – Estagiário Engenheiro Cloud - FinOps *(Mai 2025 – Presente)*  
-- Sustentação e otimização de ambientes Azure (análise de custos e backups)  
-- Migração de VMs com backup GRS → LRS + automação de restauração (Azure CLI + AzCopy)  
-- Monitoramento e auditoria com Azure Monitor, Runbooks e KQL  
-- Apoio em governança, segurança e conformidade
-
-**Mission Brasil** – Estagiário de Análise de Dados *(Jun 2024 – Ago 2024)*  
-- Criação de dashboards interativos no Power BI  
-- Transformação e limpeza de grandes volumes de dados (Excel + JSON)
-
-**Freelance** – Data Scientist Jr *(Mai 2023 – Mai 2024)*  
-- Desenvolvimento de modelo de visão computacional (Python + OpenCV)  
-- Modelagem e manipulação de dados em SQL/NoSQL
-
----
-
 ### 🎓 Formação Acadêmica
 
 **FIAP – Engenharia de Software** *(Agosto 2023 – Agosto 2027)*  
